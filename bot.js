@@ -1,7 +1,6 @@
   
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const voice_channel:("711363264713457734");
 const   text_channel: ("707709630192550052"); 
  const   your_server: ("590116292715872256"); 
 client.on('ready', () => {
